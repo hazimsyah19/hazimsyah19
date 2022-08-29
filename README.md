@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hazimsyah19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Hazimirwan)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hazimsyah19&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/hazimsyah19) 
 -->
 ## Hi there 👋, my name is Muhammad Hazim 
 ### I am an Information Security Student 💻
@@ -28,9 +34,3 @@ Here are some ideas to get you started:
 -  I play hackthebox in a free time !! 
 
 ![Hackthebox Profile](https://github.com/hazimsyah19/hazimsyah19/blob/main/htb_profile.PNG)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hazimsyah19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Hazimirwan)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hazimsyah19&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/hazimsyah19)  
