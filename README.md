@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Web Pentest
 - ⚡ Fun fact: The grass is greener on the other side
-- *Love to explore more about penetration testing and red teaming* 
-- *I play hackthebox in a free time*
-
+- ☁️ Love to explore more about penetration testing and red teaming 
+- 👾 *I play hackthebox in a free time*
+<img src="https://github.com/hazimsyah19/hazimsyah19/blob/main/htb_profile.PNG" width=100 height=100>
 ![Hackthebox Profile](https://github.com/hazimsyah19/hazimsyah19/blob/main/htb_profile.PNG)
