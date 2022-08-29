@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - 👾 I play hackthebox and tryhackme in a free time
 
 ![Hackthebox Profile](https://github.com/hazimsyah19/hazimsyah19/blob/main/htb_profile.PNG)
+<img src="https://tryhackme-badges.s3.amazonaws.com/dir3x.png" alt="TryHackMe">
 
 ---
 
