@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 ![Profile views](https://gpvc.arturio.dev/hazimsyah19) 
 -->
 ## Hi there 👋, I am Muhammad Hazim 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/muhammad-hazim-4179941b0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Hazimirwan) 
+---
 __About Me__
 ---
 - 👾 Like to read about space and galaxy 
@@ -38,5 +39,5 @@ __About Me__
 
 <img src="http://www.hackthebox.eu/badge/image/279122" alt="Hack The Box"> <img src="https://tryhackme-badges.s3.amazonaws.com/dir3x.png" alt="TryHackMe">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/muhammad-hazim-4179941b0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Hazimirwan)  
+ 
 
