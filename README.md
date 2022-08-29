@@ -33,5 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: The grass is greener on the other side
 - 🌱 I’m currently learning Web Pentest
 - ☁️ Love to explore more about penetration testing and red teaming 
-- 👾 I play hackthebox in a free time
-<img src="https://github.com/hazimsyah19/hazimsyah19/blob/main/htb_profile.PNG">
+- 👾 I play hackthebox and tryhackme in a free time
+![Hackthebox Profile](https://github.com/hazimsyah19/hazimsyah19/blob/main/htb_profile.PNG)
+---
+
