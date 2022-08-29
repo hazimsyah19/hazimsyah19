@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 ## Hi there 👋, my name is Muhammad Hazim 
 ### I am an Information Security Student 💻
 
+- 🌱 I’m currently learning Web Pentest
+- ⚡ Fun fact: The grass is greener on the other side
 - *Love to explore more about penetration testing and red teaming* 
--  *I play hackthebox in a free time*
+- *I play hackthebox in a free time*
 
 ![Hackthebox Profile](https://github.com/hazimsyah19/hazimsyah19/blob/main/htb_profile.PNG)
