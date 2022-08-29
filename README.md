@@ -27,14 +27,13 @@ Here are some ideas to get you started:
 
 ![Profile views](https://gpvc.arturio.dev/hazimsyah19) 
 -->
-## Hi there 👋, my name is Muhammad Hazim 
-### I am a Junior Penetration Tester 💻
+## Hi there 👋, I am Muhammad Hazim 
 
 __About Me__
 ---
-- 👾 Like read about space and galaxy 
+- 👾 Like to read about space and galaxy 
 - ⚡ Fun fact: The grass is greener on the other side
-- ☁️ Love to explore more about penetration testing and red teaming 
+- ☁️ Still learning about penetration testing and red teaming 
 -  ♠️ I play hackthebox and tryhackme in a free time
 
 <img src="http://www.hackthebox.eu/badge/image/279122" alt="Hack The Box"> <img src="https://tryhackme-badges.s3.amazonaws.com/dir3x.png" alt="TryHackMe">
