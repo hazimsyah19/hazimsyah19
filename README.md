@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 - *Love to explore more about penetration testing and red teaming* 
 -  I play hackthebox in a free time !! 
 
-![Hackthebox Profile](https://github.com/hazimsyah19/hazimsyah19/blob/main/htb_profile.PNG)
+![Hackthebox Profile](https://github.com/hazimsyah19/hazimsyah19/blob/main/htb_profile.PNG= 250x250)
