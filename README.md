@@ -39,3 +39,7 @@ __About Me__
 
 <img src="http://www.hackthebox.eu/badge/image/279122" alt="Hack The Box"> <img src="https://tryhackme-badges.s3.amazonaws.com/dir3x.png" alt="TryHackMe">
 
+__Social_
+---
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/muhammad-hazim-4179941b0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Hazimirwan)  
+
