@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## Hi there 👋, my name is Muhammad Hazim 
 ### I am a Junior Penetration Tester 💻
 
-#__About Me__
+__About Me__
 ---
 - 👾 Like read about space and galaxy 
 - ⚡ Fun fact: The grass is greener on the other side
