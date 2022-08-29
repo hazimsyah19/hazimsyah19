@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - ☁️ Love to explore more about penetration testing and red teaming 
 - 👾 I play hackthebox and tryhackme in a free time
 
-![Hackthebox Profile](https://github.com/hazimsyah19/hazimsyah19/blob/main/htb_profile.PNG)
+<img src="http://www.hackthebox.eu/badge/image/279122" alt="Hack The Box">
 <img src="https://tryhackme-badges.s3.amazonaws.com/dir3x.png" alt="TryHackMe">
 
 ---
