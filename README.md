@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 ### I am an Information Security Student 💻
 
 - *Love to explore more about penetration testing and red teaming* 
--  I play hackthebox in a free time !! 
+-  *I play hackthebox in a free time*
 
-![Hackthebox Profile](https://github.com/hazimsyah19/hazimsyah19/blob/main/htb_profile.PNG | width=100)
+![Hackthebox Profile](https://github.com/hazimsyah19/hazimsyah19/blob/main/htb_profile.PNG | width=100 height=100)
