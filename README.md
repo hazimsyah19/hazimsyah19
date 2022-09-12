@@ -35,6 +35,6 @@ __About Me__
 - 👾 Like to read about space and galaxy 
 - ⚡ Fun fact: The grass is greener on the other side
 - ☁️ Still learning about penetration testing and red teaming 
--  ♠️ I play hackthebox and tryhackme in a free time
+-  ♠️ I play hackthebox and tryhackme on free time
 
 <img src="http://www.hackthebox.eu/badge/image/279122" alt="Hack The Box"> <img src="https://tryhackme-badges.s3.amazonaws.com/dir3x.png" alt="TryHackMe">
